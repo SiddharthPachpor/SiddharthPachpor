@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthPachpor
-- 👀 I’m interested in Battery Development
-- 🌱 I’m currently learning matlab, Python 3, Battery Simulation model Development Concepts, Industry 4.0
-- 💞️ I’m looking to collaborate on Open Source Battery Projects
+- 👀 I’m professional in automotive product development concepts and especially in Battery Development
+- 🌱 I’m fond of programming in Matlab, Python 3, and Embedded C language 
+- 💞️ I’m looking to collaborate on 'Open Source Projects' that creates value the society at large
 - 📫 How to reach me siddharthpachpor22@gmail.com 
 
 <!---
