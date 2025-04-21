@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SiddharthPachpor
-- 👀 I’m professional in automotive product development concepts and especially in Battery Development
+- 👀 I’m professional in automotive product development concepts and especially in battery development
 - 🌱 I’m fond of programming in Matlab, Python 3, and Embedded C language 
-- 💞️ I’m looking to collaborate on 'Open Source Projects' that creates value the society at large
+- 💞️ I’m looking to collaborate on 'Open Source Projects' that creates value to the society at large
 - 📫 How to reach me siddharthpachpor22@gmail.com 
 
 <!---
